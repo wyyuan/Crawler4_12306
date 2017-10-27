@@ -179,7 +179,7 @@
     <Compile Include="Forms\TimeDiagramQuery.Designer.cs">
       <DependentUpon>TimeDiagramQuery.cs</DependentUpon>
     </Compile>
-    <Compile Include="TicketsInfo.cs" />
+    <Compile Include="Core\TicketsInfo.cs" />
     <Compile Include="Forms\LeftTicketQuery.cs">
       <SubType>Form</SubType>
     </Compile>

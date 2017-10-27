@@ -22,3 +22,6 @@ D:\code\12306\TicketsInfo\obj\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.exe
 D:\code\12306\TicketsInfo\bin\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.pdb
 D:\code\12306\TicketsInfo\obj\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.csprojResolveAssemblyReference.cache
 D:\code\12306\TicketsInfo\obj\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.pdb
+D:\GitRepos\Crawler4_12306\TicketsInfo\bin\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.exe.config
+D:\GitRepos\Crawler4_12306\TicketsInfo\obj\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.exe
+D:\GitRepos\Crawler4_12306\TicketsInfo\obj\Debug\com.foxmail.wyyuan1991.TicketInfoCrawler.pdb
